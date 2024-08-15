@@ -1,0 +1,3 @@
+## AUTHOR: SUNDAY, JUSTICE GABRIEL
+## WEB3BRIDGE - Practice Class on JS.
+* 
